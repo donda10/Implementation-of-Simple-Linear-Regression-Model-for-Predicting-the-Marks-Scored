@@ -67,24 +67,31 @@ plt.show()
 
 ## Output:
 head values
+
 ![Screenshot 2025-03-04 094310](https://github.com/user-attachments/assets/ec2365dd-ede5-4e30-9d1c-4271ddcc210a)
 
 tail values
+
 ![Screenshot 2025-03-04 094316](https://github.com/user-attachments/assets/1ded3eff-9833-47d1-8fe0-c5102f3599f8)
 
 X values
+
 ![Screenshot 2025-03-04 094433](https://github.com/user-attachments/assets/b03c9660-760e-486d-8314-ba238886879b)
 
 Y values
+
 ![Screenshot 2025-03-04 094530](https://github.com/user-attachments/assets/ee6ec4f4-f70a-4b8f-9edb-d3512ef6a64b)
 
 Predicted values
+
 ![Screenshot 2025-03-04 094802](https://github.com/user-attachments/assets/d2abd067-57bd-4737-aefe-f0be4bb1551f)
 
 Actual values
+
 ![Screenshot 2025-03-04 094716](https://github.com/user-attachments/assets/3ccfa301-d935-4383-ac3f-f7080b852876)
 
 Testing set
+
 ![Screenshot 2025-03-05 084508](https://github.com/user-attachments/assets/35a14fee-b41f-4b7f-abc0-a4d40190c92b)
 
 Training set
